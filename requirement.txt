@@ -5,3 +5,4 @@ pandas
 wordcloud
 matplotlib
 nltk
+plotly-express==0.4.0
